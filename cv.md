@@ -1,8 +1,8 @@
 # Stephen Hazleton
 ## Senior Software Engineer
-&nbsp; 
+&nbsp;
 
-> [Download PDF](resume.pdf)<br>
+> [Download PDF](cv.pdf)<br>
 > [shazleto@gmail.com](mailto:shazleto@gmail.com)<br>
 > [+447429337552](tel:+447429337552)
 
