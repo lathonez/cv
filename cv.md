@@ -10,7 +10,7 @@
 
 ### Profile {#profile}
 
-Senior Software Engineer with eight years' in the industry. As Wherewolf's first technical hire I have spent the last two of them designing, building and delivering a successful SAAS product to market. Prior experience in a much larger organisation gives me excellent grounding as a technical manager and mentor, who has vast experience fixing urgent production issues.
+Senior Software Engineer with eight years' in the industry. As the first technical hire for an ambitious kiwi startup, I have spent the last two years designing, building and delivering a successful SAAS product to market. Prior experience in a much larger organisation provides excellent grounding as a technical manager and mentor, who has vast experience fixing urgent production issues.
 
 ------
 
@@ -19,8 +19,8 @@ Senior Software Engineer with eight years' in the industry. As Wherewolf's first
 Full Stack Developer (remote)
 : *Wherewolf Ltd*
 __2015 - Present__
-Wherewolf is a small startup based out of Queenstown, New Zealand, disrupting the adventure tourism industry. I am effectively their first technical hire, reporting directly to the CTO and CEO.<br><br>
-Over the last two years I have designed and built Wherewolf's flagship SAAS product, which has been a huge success and allowed the company to scale and grow beyond what any of us thought possible.<br><br>
+Wherewolf is a small startup based out of Queenstown, New Zealand, disrupting the adventure tourism industry. As their first technical hire, I report directly to the CTO and CEO.<br><br>
+Over the last two years I have designed and built Wherewolf's flagship SAAS product, which has been a huge success and allowed the company to gain momentum and grow rapidly across the adventure tourism industry.<br><br>
 The Wherewolf stack is Angular 4 / Typescript, Node.js and Postgres, running on Amazon EC2 / Amazon ECS (Docker).<br><br>
 ~ Design and build [Wherewolf Arrivals iPad App](https://itunes.apple.com/GB/app/id1229524816?mt=8)<br>
 ~ Introduce docker for continuous deployment<br>
@@ -37,7 +37,7 @@ The Wherewolf stack is Angular 4 / Typescript, Node.js and Postgres, running on 
 Programming Teacher
 : *Sydney Programming School (code4fun)*
 __Sep 2016 - Mar 2017__
-Code4Fun are a commercial programming school in Sydney, Australia. I taught with them most afternoons and on occasional holiday camps.<br><br>
+Code4Fun are a commercial programming school in Sydney, Australia. As part of the teaching team I taught most afternoons and on occasional holiday camps.<br><br>
 Teaching classes and preparing courses provided a different take on patience and communication that I have since found useful professionally. Moreover, teaching to a student who has no grounding in a subject truly enforces your own knowledge of the fundamentals.<br><br>
 ~ Teach programming to students aged 6-16 in groups of up to 22<br>
 ~ Create and teach syllabi for Angular 2 ([WhatsApp clone](https://github.com/lathonez/powwow)) and Python ([Aboriginal Translation Portal](https://github.com/lathonez/wangka))<br>
@@ -46,7 +46,7 @@ Teaching classes and preparing courses provided a different take on patience and
 Technical Lead (Payments and Gaming)
 : *OpenBet*
 __Dec 2013 - Jan 2015__
-OpenBet are a London based trading platform providing software for most highstreet bookmakers in the UK, employing around 400 staff in 2015.<br><br>
+OpenBet are a London based trading platform providing software for most high street bookmakers in the UK, employing around 400 staff in 2015.<br><br>
 TLs at OpenBet handle the full management spectrum, from HR issues to performance appraisals. On the William Hill account, I was also responsible for managing the client's expectations on payments integrations and fixed odds gaming.<br><br>
 In 2015, the OpenBet stack was vanilla JS / HTML, a TCL application server, running on IBM Informix.<br><br>
 ~ Manage a team of eight including two remote staff based in Athens<br>
@@ -111,12 +111,12 @@ Head of department prize for best third year performance
 
 ### Certificates {#certificates}
 
-Informix Database
+IBM Programmer's Performance Workshop
 : *IBM*
 __2012__
-Informix training course lead by IBM focusing on performance analysis and optimisation
+Informix training course lead by IBM focusing on performance analysis and optimisation (ZL1_840SW)
 
-Employee of the month
+Award for excellence
 : *Office Angels*
 __2008__
 Whilst temping during the university summer (Office Angel of the Month!)
