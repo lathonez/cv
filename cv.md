@@ -10,7 +10,7 @@
 
 ### Profile {#profile}
 
-Senior Software Engineer with eight years' in the industry. As the first technical hire for an ambitious kiwi startup, I have spent the last two years designing, building and delivering a successful SAAS product to market. Prior experience in a much larger organisation provides excellent grounding as a technical manager and mentor, who has vast experience fixing urgent production issues.
+Senior Software Engineer with eight years of experience in the industry. As the first technical hire for an ambitious kiwi startup, I have spent the last two years designing, building and delivering a successful SAAS product to market. Prior experience in a much larger organisation provides excellent grounding as a technical manager and mentor, who has vast experience fixing urgent production issues.
 
 ------
 
